@@ -1,4 +1,4 @@
-# GPT-2 Facebook Messenger Chat-Bot
+# Facebook Messenger Chat-Bot (GPT-2)
 A fun little-side project that i worked on:
 * In short, it uses downloaded facebook messages in .json to train a model, and then automates responses using selenium.
 * I used it to create a silly bot for my friend group that responds with the same humour as ours, and the results were hilarious
